@@ -1,0 +1,18 @@
+.table {
+  width: 50%;
+  height: 50%;
+}
+
+.data-table {
+  margin: 18px;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  border: 1px solid #d4d4d4; /* Example border color for header */
+  padding: 5px;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+  border: 1px solid #dee2e6; /* Adjust the color and style as needed */
+  padding: 5px;
+}

@@ -8,19 +8,11 @@
 }
 
 .p-datatable .p-datatable-thead > tr > th {
-<<<<<<< HEAD
   border: 1px solid #d4d4d4;
-=======
-  border: 1px solid #d4d4d4; 
->>>>>>> 330e9740b3c4571165a29e9a7a95cff203fd8f5b
   padding: 5px;
 }
 
 .p-datatable .p-datatable-tbody > tr > td {
-<<<<<<< HEAD
   border: 1px solid #dee2e6;
-=======
-  border: 1px solid #dee2e6; 
->>>>>>> 330e9740b3c4571165a29e9a7a95cff203fd8f5b
   padding: 5px;
 }

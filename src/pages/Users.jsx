@@ -3,8 +3,10 @@ import { UserTable } from "../Components/UserTable/UserTable";
 
 export const Users = () => {
   return (
-    <div>
-      <UserTable />
-    </div>
+    <>
+      <div className="users">
+        <UserTable />
+      </div>
+    </>
   );
 };

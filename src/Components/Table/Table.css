@@ -1,10 +1,5 @@
 .table {
   width: 50%;
-  height: 50%;
-}
-
-.data-table {
-  margin: 18px;
 }
 
 .p-datatable .p-datatable-thead > tr > th {
